@@ -1,5 +1,5 @@
-from utils.Model import Model
-from utils.DataLoder import DataLoader
+from Model import Model
+from DataLoder import DataLoader
 import tensorflow as tf
 import argparse, os, time
 
